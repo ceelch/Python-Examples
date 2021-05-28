@@ -1,5 +1,5 @@
 import cvxpy as cp
-
+#%%
 # Create two scalar optimization variables.
 x = cp.Variable()
 y = cp.Variable()
