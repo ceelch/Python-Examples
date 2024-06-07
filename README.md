@@ -1,3 +1,3 @@
-# Python-Varios
+# Python-Examples
 
-Este repositorio contiene diversos ejemplos de Python.
+This repo contains several Python examples.
